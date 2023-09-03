@@ -1,0 +1,10 @@
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

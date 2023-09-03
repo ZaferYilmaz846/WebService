@@ -1,0 +1,15 @@
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\WebService.DataAccessLayer.deps.json
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\WebService.DataAccessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\WebService.DataAccessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\WebService.Model.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\WebService.Model.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.csproj.CopyComplete
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\obj\Debug\netcoreapp3.1\WebService.DataAccessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.DataAccessLayer\bin\Debug\netcoreapp3.1\Infrastructure.pdb

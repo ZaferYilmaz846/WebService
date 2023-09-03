@@ -1,0 +1,17 @@
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.BusinessLayer.deps.json
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.BusinessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.BusinessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.AssemblyInfo.cs
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.DataAccessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.Model.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.DataAccessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\WebService.Model.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\obj\Debug\netcoreapp3.1\WebService.BusinessLayer.csproj.CopyComplete
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.BusinessLayer\bin\Debug\netcoreapp3.1\Infrastructure.pdb

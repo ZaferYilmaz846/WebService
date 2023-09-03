@@ -1,0 +1,13 @@
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\bin\Debug\netcoreapp3.1\WebService.Model.deps.json
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\bin\Debug\netcoreapp3.1\WebService.Model.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\bin\Debug\netcoreapp3.1\WebService.Model.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.AssemblyInfoInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.AssemblyInfo.cs
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\WebService\WebService.Model\obj\Debug\netcoreapp3.1\WebService.Model.csproj.CopyComplete
